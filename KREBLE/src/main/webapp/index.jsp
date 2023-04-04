@@ -156,9 +156,7 @@ PL구단들이 이강인 모니터링중이다
     			</div>
     		
     		</div>
-    		<div class="rent_wrap wrap3">
     		
-    		</div>
     	</div>
     </div>
     <div id="content4">

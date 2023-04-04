@@ -46,9 +46,9 @@ section {
 	background-color:#f8f8f8;
 }
 #content3 {
-	height:1050px;
-	background:url(../image/background/bg40.jpg) no-repeat top center;
-	background-size:1920px;
+	height:1015px;
+	background:url(../image/background/bg25.jpg) no-repeat top center;
+	background-size:1990px;
 }
 #content4 {
 	height:850px;
@@ -311,7 +311,7 @@ section {
 .rent_wrap.wrap2 {
 	float:right;
 	width:calc(100% - 800px);
-	height:calc(100% - 650px);
+	height:calc(100% - 614px);
 	
 }
 .rent_wrap2_content{
