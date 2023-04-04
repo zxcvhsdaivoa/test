@@ -39,7 +39,7 @@
     		</div>
     		<div class="info_wrap">
     			<a href="#" class="commu_link">
-    				<b>커뮤니티</b>
+    				<b>커뮤니티test</b>
     				<p>여러 사람들과 축구에 대해 이야기하고 싶다면?</p>
     			</a>
     			<a href="#" class="rent_link">
